@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\bin\Debug\CareTrack.exe.config
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\bin\Debug\CareTrack.exe
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\bin\Debug\CareTrack.pdb
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.MainScreen.resources
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.exe
+D:\Documents\Visual Studio 2012\Projects\CareTrack\CareTrack\obj\Debug\CareTrack.pdb
